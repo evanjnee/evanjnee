@@ -1,16 +1,14 @@
-### Hi there 👋
+[Evan Nee](https://i0.wp.com/evannee.com/wp-content/uploads/2022/04/EvanJNee_600px.jpg?w=300&ssl=1)
 
-<!--
-**evanjnee/evanjnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
 
-Here are some ideas to get you started:
+I’m Evan, a skilled technologist and creative professional living in Portsmouth, VA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love solving complex problems using tech, and sharing knowledge that empowers others to improve their lives and their communities.
+
+- 🔭 I’m currently working on: COMPTIA A+, Harvard CS50X
+- 👨‍💻 Skillsets: help desk, hardware/software troubleshooting, web development, graphic design, page layout, social media marketing, photography, video editing
+- 💻 Tech tools: HTML, CSS, Joomla, Wordpress, MYSQL, PHPMyAdmin, Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro), Ubuntu Linux, Burp Suite
+- 🙋‍♂️ Pronouns: He/Him
+- ⚡ Fun fact: I've served as a volunteer certified flight attendant on two roundtrip flights to the Caribbean
+- 📧 How to reach me: [EvanNee.com](https://evannee.com/contact/)
