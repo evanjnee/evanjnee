@@ -4,7 +4,7 @@ I’m Evan, a skilled technologist and creative professional living in Portsmout
 
 I love solving complex problems using tech, and sharing knowledge that empowers others to improve their lives and their communities.
 
-- 🔭 I’m currently working on: COMPTIA A+, Harvard CS50X
+- 🔭 I’m currently working on: COMPTIA A+, Harvard CS50X Introduction to Computer Science
 - 👨‍💻 Skillsets: help desk, hardware/software troubleshooting, web development, graphic design, page layout, social media marketing, photography, video editing
 - 💻 Tech tools: HTML, CSS, Joomla, Wordpress, MYSQL, PHPMyAdmin, Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro), Ubuntu Linux, Burp Suite
 - 🙋‍♂️ Pronouns: He/Him
