@@ -1,6 +1,4 @@
-![Evan Nee](https://i0.wp.com/evannee.com/wp-content/uploads/2022/04/EvanJNee_600px.jpg?w=300&ssl=1)
-
-### Hello there! 👋
+## Hello there! 👋
 
 I’m Evan, a skilled technologist and creative professional living in Portsmouth, VA.
 
