@@ -9,4 +9,4 @@ I love solving complex problems using tech, and sharing knowledge that empowers 
 - 💻 Tech tools: HTML, CSS, Joomla, Wordpress, MYSQL, PHPMyAdmin, Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro), Ubuntu Linux, Burp Suite
 - 🙋‍♂️ Pronouns: He/Him
 - ⚡ Fun fact: I've served as a volunteer certified flight attendant on two roundtrip flights to the Caribbean
-- 📧 How to reach me: [EvanNee.com](https://evannee.com/contact/)
+- 📧 How to reach me: [EvanNee.com/Contact](https://evannee.com/contact/)
