@@ -10,3 +10,4 @@ I love solving complex problems using tech, and sharing knowledge that empowers 
 - 🙋‍♂️ Pronouns: He/Him
 - ⚡ Fun fact: I've served as a volunteer certified flight attendant on two roundtrip flights to the Caribbean
 - 📧 How to reach me: [EvanNee.com/Contact](https://evannee.com/contact/)
+- 🐦 I share helpful tech resources and commentary on Twitter: [@EvanJNee](https://twitter.com/evanjnee)
